@@ -23,7 +23,7 @@ A simple task manager application built using React Native. This app allows user
 
 1. Clone this repository:
    ```
-   git clone [https://github.com/kevinlwong/react-native-task-manager.git](https://github.com/kevinlwong/ReactNativeExpoToDoList.git)
+   git clone https://github.com/kevinlwong/ReactNativeExpoToDoList.git
    cd ReactNativeExpoToDoList
    ```
 
