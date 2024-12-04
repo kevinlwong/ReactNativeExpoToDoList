@@ -1,5 +1,5 @@
 
-# React Native Task Manager App
+# React Native Task Manager App ⚛ ✅
 
 A simple task manager application built using React Native. This app allows users to create, view, and delete tasks in an intuitive interface.
 
