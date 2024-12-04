@@ -14,7 +14,9 @@ A simple task manager application built using React Native. This app allows user
 
 ### Screenshots
 - **Main Screen**: Displays a list of tasks.
+![Main Screen](/todoList/assets/tasks.PNG)
 - **Task Input**: Add tasks using the input field and "+" button.
+![Task Input](/todoList/assets/taskinput.PNG)
 
 ## Installation
 
